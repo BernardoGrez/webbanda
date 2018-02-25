@@ -139,7 +139,11 @@ header nav{
 header nav li{
 	margin: 0 15px;
 	font-size: 23px;
+	
 }
+
+
+
 
 header nav li:first-child{
 	margin-left: 0;	
