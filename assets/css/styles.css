@@ -130,10 +130,13 @@ header{
 
 header h2{
 	font-family: 'Quicksand', sans-serif;
+	
+	
 }
 
 header nav{
 	display: flex;
+	grid-column-start: -50;
 }
 
 header nav li{
